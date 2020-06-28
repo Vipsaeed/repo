@@ -1,10 +1,10 @@
-Package: com.opa334.ccsupport
+Package: com.charming.ccsupport
 Version: 1.2.2
 Architecture: iphoneos-arm
-Maintainer: opa334
+Maintainer: charming
 Depends: mobilesubstrate, firmware (>=11.0)
-Conflicts: com.ioscreatix.silo
-Replaces: com.ioscreatix.silo
+Conflicts: com.charming.ccsupport
+Replaces: com.charming.ccsupport
 Filename: ./debs/com.charming.ccsupport_1.2.2-c_iphoneos-arm.deb
 Size: 35312
 MD5sum: 17ed6254911b6492bb12db7344a0eb9f
@@ -15,4 +15,4 @@ Description: Support tweak for CC modules!
 Author: opa334
 Installed-Size: 272
 Name: CCSupport
-Provides: com.ioscreatix.silo
+Provides: com.charming.ccsupport
