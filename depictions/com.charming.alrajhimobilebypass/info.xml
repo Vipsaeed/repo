@@ -1,0 +1,42 @@
+<package>
+	<id>com.charming.ccsupport</id>
+	<name>ccsupport</name>
+	<version>1.2.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Support tweak for CC modules!. Firmware should be greater than 11.0</shortDescription>
+	<descriptionlist>
+		<description>Support tweak for CC modules!.</description>
+		<description><![CDATA[
+		You can also have<br/>
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>T</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>t!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
