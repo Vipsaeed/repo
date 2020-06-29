@@ -9,6 +9,7 @@ MD5sum: eae5580a7e022c9149eeb0da04d90e4b
 SHA1: 72f685c343ca8bece7d09c768b1603be9e2d3592
 SHA256: 322f9bef42a83ffb0234200341617f9c8937c040fb7f00bfe383794f53a14ffd
 Section: Tweaks
+Description: Bypass Jailbreak Detection of AlRajhi Mobile v4.1.3
 Author: XsF1re
 Installed-Size: 104
 Name: AlrajhiMobileBypass
