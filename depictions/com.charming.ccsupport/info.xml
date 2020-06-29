@@ -12,18 +12,7 @@
 	</dependencies>
 	<shortDescription>Support tweak for CC modules!. Firmware should be greater than 11.0</shortDescription>
 	<descriptionlist>
-		<description>Support tweak for CC modules!
-			Compatible with iOS 11, 12 and 13
-
-			CCSupport adds the ability for other developers to add their own modules to the Control Center.
-			It does so in a safe way to ensure that the Control Center does not get messed up when the tweak is not loaded.
-
-			It also serves as a standalone tweak, because it unlocks the otherwise fixed modules to be moved in settings.
-			This includes the connectivity module, the media controls module, the brightness and volume slider modules and the AirPlay module.
-			Icons and names for these modules have been recreated, to ensure a stock look.
-
-			There also is a feature to reset the module layout for both configurations (tweak loaded, tweak not loaded).
-			The button to do that can be found at the bottom of the Control Center settings page.</description>
+		<description>Support tweak for CC modules!.</description>
 		<description><![CDATA[
 		You can also have<br/>
 		a multi-line item.
